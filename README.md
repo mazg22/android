@@ -1,4 +1,4 @@
-<?php
+README.md<?php
 
 echo "COPYRIGHT : SGB TEAM\n\n";
 
